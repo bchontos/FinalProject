@@ -1,0 +1,22 @@
+.heading {
+    background: white;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.matches {
+    color: black;
+    font-size: larger;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.match-card {
+    color: black;
+    font-weight: bold;
+    margin-top: 20px;
+    width: 500px;
+}

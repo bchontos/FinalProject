@@ -1,0 +1,15 @@
+.card {
+    color: black;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 0 auto;
+    float: none;
+    text-align: center;
+      
+}
+
+
+

@@ -1,0 +1,14 @@
+.home {
+    margin: 15px;
+    color:white;
+    text-align: center;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    text-shadow: 2px 2px black;
+}
+
+body {
+    background-image: url("../photos/tables.jpg");
+    max-width: 100%;
+    height: auto;
+}
+
